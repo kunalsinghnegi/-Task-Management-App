@@ -28,8 +28,4 @@ Features secure user authentication and real-time task management with RESTful A
 - Node.js installed (v14+ recommended)
 - MongoDB running locally or MongoDB Atlas account
 
-### Installation
-
-1. Clone the repo  
-```bash
-git clone https://github.com/your-username/task-management-app.git
+# working in this
